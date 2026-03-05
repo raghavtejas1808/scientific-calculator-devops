@@ -1,2 +1,11 @@
-# scientific-calculator-devops
-SPE Mini Project at IIITB- Scientific calculator
+Scientific Calculator DevOps Mini Project
+
+Tools Used:
+- GitHub
+- Jenkins
+- Docker
+- DockerHub
+- Ansible
+
+Pipeline:
+GitHub → Testing → Jenkins → Docker → DockerHub → Deployment
