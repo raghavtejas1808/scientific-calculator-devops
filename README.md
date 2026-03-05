@@ -1,4 +1,6 @@
-Scientific Calculator DevOps Mini Project
+SPE Mini Project
+Scientific Calculator
+MS2025503 - S Raghav Tejas
 
 Tools Used:
 - GitHub
